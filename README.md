@@ -2,7 +2,7 @@
 
 **IT leader in Energy → building toward generalist developer / solution architect roles in regulated industries.**
 
-I've spent my career as an IT Consultant in regulated industries. Now I'm adding hands-on software development to that toolkit.
+I've spent my career as an IT Consultant in regulated industries. Now I'm learning hands-on, agentic software development.
 
 ---
 
